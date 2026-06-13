@@ -1,4 +1,4 @@
-# Finance-Tracker-AI-Integrated-
+# Finance-Tracker-AI-Integrated
 A AI integrated finance tracker with rich colors,that keeps you ahead of your expenses.
 A sleek, color-coded command-line interface (CLI) application for tracking personal finances, complete with smart AI-driven budgeting insights.
 
